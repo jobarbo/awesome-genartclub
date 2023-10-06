@@ -57,9 +57,8 @@ Generative art refers to art that in whole or in part has been created with the 
 
 ## Blogs • Websites
 
-- [Piter Pasma Website](https://piterpasma.nl/) - Blog by Keith Peters, specialised in creative coding.
-- [Jonathan Barbeau Website](https://jbarbeau.art) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
-
+- [Piter Pasma Website](https://piterpasma.nl/)
+- [Jonathan Barbeau Website](https://jbarbeau.art)
 
 ## Related
 
