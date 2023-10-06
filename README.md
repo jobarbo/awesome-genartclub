@@ -29,16 +29,16 @@ Generative art refers to art that in whole or in part has been created with the 
 - [Random Collage Builder](https://josvromans.github.io/imagetools/collage_maker/create)[WEB] - Small tool to create a random collage with numerous images.
 
 ### Online
-- [Randometer](https://randomometer.netlify.app/)[WEB] - measure/experiment with various random distributions.
-- [Save-server](https://gist.github.com/tripzilch/ca327ee3f74716fe3528782c604bc196)[CODE] - a tiny local node.js server that listens for POST requests, so you can easily save multiple PNG or SVG outputs (see comment near top for usage)
-- [Epihyperderpflardioids](https://github.com/tripzilch/tinyepi/blob/main/epi-commented.js)[CODE] - commented source code of "Epihyperderpflardioids" (vector functions + SVG output) 
-- [Tinypicker](https://gist.github.com/tripzilch/522acfe5c1f3ac97abc3a216d1fa4679)[CODE] - pick item from list with custom weights 
-- [Universal Rayhatcher Dev ENV](https://extreme-rayhatching.netlify.app)[WEB] - documentation can be accessed by pressing "h" or "d" while drawing
-- [Tiny PRNG](https://gist.github.com/tripzilch/3047a519f1a1957f817ed13562735740)[CODE] - This is the most recent/best version of my Piter Pasma's PRNG
-- [Generator Functions](https://gist.github.com/tripzilch/d446ca3833478bd0c9951a75cc8a525b)[CODE] - Explanation + demo code for using generator functions to keep your browser responsive during long calculations
-- [Tiny Noise](https://gist.github.com/tripzilch/dce23d5cef92ac068a8085250cb17d4b)[CODE] - small + fast value noise functions (2D and 3D)
-- [wobbly-noise.js](https://gist.github.com/tripzilch/2ee47d5cfb23d8ee8a9687903567631b)[CODE] - basic wobbly noise for shaders
-- [Tinyshuf](https://gist.github.com/tripzilch/afc0391fd0e7e08437c023d48b174d79)[CODE] - Fisher-Yates shuffle in 62 chars
+- [Randometer](https://randomometer.netlify.app/) [WEB] - measure/experiment with various random distributions.
+- [Save-server](https://gist.github.com/tripzilch/ca327ee3f74716fe3528782c604bc196) [CODE] - a tiny local node.js server that listens for POST requests, so you can easily save multiple PNG or SVG outputs (see comment near top for usage)
+- [Epihyperderpflardioids](https://github.com/tripzilch/tinyepi/blob/main/epi-commented.js) [CODE] - commented source code of "Epihyperderpflardioids" (vector functions + SVG output) 
+- [Tinypicker](https://gist.github.com/tripzilch/522acfe5c1f3ac97abc3a216d1fa4679) [CODE] - pick item from list with custom weights 
+- [Universal Rayhatcher Dev ENV](https://extreme-rayhatching.netlify.app) [WEB] - documentation can be accessed by pressing "h" or "d" while drawing
+- [Tiny PRNG](https://gist.github.com/tripzilch/3047a519f1a1957f817ed13562735740) [CODE] - This is the most recent/best version of my Piter Pasma's PRNG
+- [Generator Functions](https://gist.github.com/tripzilch/d446ca3833478bd0c9951a75cc8a525b) [CODE] - Explanation + demo code for using generator functions to keep your browser responsive during long calculations
+- [Tiny Noise](https://gist.github.com/tripzilch/dce23d5cef92ac068a8085250cb17d4b) [CODE] - small + fast value noise functions (2D and 3D)
+- [wobbly-noise.js](https://gist.github.com/tripzilch/2ee47d5cfb23d8ee8a9687903567631b) [CODE] - basic wobbly noise for shaders
+- [Tinyshuf](https://gist.github.com/tripzilch/afc0391fd0e7e08437c023d48b174d79) [CODE] - Fisher-Yates shuffle in 62 chars
 
 
 ## Learning Resources
